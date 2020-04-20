@@ -1,0 +1,22 @@
+{
+  "name": "eval-reverse-polish-notation",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage=true"
+  },
+  "repository": "git+https://github.com/varora1406/eval-reverse-polish-notation.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varora1406/eval-reverse-polish-notation/issues"
+  },
+  "homepage": "https://github.com/varora1406/eval-reverse-polish-notation#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.4.0",
+    "jest": "^25.4.0"
+  },
+  "main": "index.js",
+  "author": "Vaibhav <varora@catalystone.com>"
+}
