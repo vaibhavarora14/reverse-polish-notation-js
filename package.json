@@ -1,6 +1,6 @@
 {
   "name": "eval-reverse-polish-notation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "test": "jest",
     "test-coverage": "jest --coverage=true"
