@@ -1,16 +1,12 @@
 # eval-reverse-polish-notation
 
-# Instructions
+# What's reverse polish notation
 
-Read about [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+Wikipedia knowledge on [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 
-## Specification
+## Operations supported
 
-- Support for addition, subtraction, multiplication, and division.
-
-## Restrictions
-
-- can't use `eval`.
+- addition, subtraction, multiplication, and division.
 
 ## Examples
 
